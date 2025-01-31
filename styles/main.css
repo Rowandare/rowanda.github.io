@@ -56,6 +56,11 @@ a {
     font-weight: bold;
     text-decoration: none;
 }
+
+a:hover, a:focus{
+    color: green;
+}
+
 /* Footer formatting */
 footer {
     text-align: center;
